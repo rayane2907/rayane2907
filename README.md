@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayane AMMAR KHODJA</h1>
 <h3 align="center">A passionate AI and Computer Vision Research Engineer with a background in Electrical Engineering.</h3>
 
-- 🌱 Currently **I am doing my PhD in Anomaly detection and diagnosis in chemical pilot plants (Chemical Reactors).**
+- 🌱 Currently **I am doing my PhD in Anomaly detection and diagnosis in chemical pilot plants (Chemical Reactors) using Artificial Intelligence and Computer Vision approaches**
 
 - 👯 I’m looking to collaborate on **Prognostic and Health Management with AI applications.**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AI and its applications in industrial processes**
 
-- 📫 How to reach me **rayane.ammar-khodja@ifpen.fr**
+- 📫 How to reach me: **rayane.ammar-khodja@ifpen.fr**
 
 - 📄 To Know about my experiences [https://www.linkedin.com/in/rayane-ammar-khodja-923854201/](https://www.linkedin.com/in/rayane-ammar-khodja-923854201/)
 
